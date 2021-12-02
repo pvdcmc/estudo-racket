@@ -97,4 +97,3 @@
 (run g1 (nott (chr #\a)) (string->list "abc"))
 
 (run-var g1 'a (string->list "abc"))
-
